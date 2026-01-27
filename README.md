@@ -6,7 +6,6 @@
 
 **UniMod** is a multimodal moderation framework that transitions from *sparse decision supervision* to *dense, multi-attribute reasoning trajectories*.  
 
----
 
 ## Introduction
 
@@ -18,12 +17,12 @@ UniMod aims to:
 - Support **multimodal inputs** such as text and images  
 - Improve the **clarity and stability** of safety decisions
 
----
+
 
 ## News
 
 
----
+
 
 ## Sources
 
@@ -37,7 +36,7 @@ The UniMod framework consists of the following components:
 | **UniMod** | | TBA |
 
 
----
+
 
 ## Quick Start
 
@@ -123,7 +122,6 @@ The output includes structured reasoning fields such as:
 * policy
 * answer
 
----
 
 
 ## Evaluation
@@ -144,7 +142,3 @@ python -m evaluations.eval \
 * `--url`: HTTP endpoint of the deployed model (e.g., provided by vLLM or SGLang).
 * `--task`: Comma-separated list of evaluation benchmarks, including
   `harmbench`, `xstest`, `wildguard`, `toxic`, `aegis`, `spavl`, and `beaver`.
-
-
-
----
