@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" alt="UniMod Logo" width="320">
+  <img src="./docs/icon.png" alt="UniMod Logo" width="320">
 </p>
 
 # UniMod
