@@ -12,7 +12,7 @@ UniRM 将奖励信号解耦为多个维度，使模型能够区分**表达质量
 > UniRM 演示视频：
 
 <video controls preload="metadata" style="width:100%; max-width:900px; border-radius:12px;">
-  <source src="static/videos/unirm.mp4" type="video/mp4">
+  <source src="static/unirm.mp4" type="video/mp4">
 </video>
 
 ---

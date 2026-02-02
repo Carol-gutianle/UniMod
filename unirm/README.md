@@ -16,7 +16,7 @@ UniRM decouples reward attribution into multiple dimensions so the model can dis
 > UniRM demo video:
 
 <video controls preload="metadata" style="width:100%; max-width:900px; border-radius:12px;">
-  <source src="static/videos/unirm.mp4" type="video/mp4">
+  <source src="static/unirm.mp4" type="video/mp4">
 </video>
 
 ---

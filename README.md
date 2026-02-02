@@ -37,6 +37,16 @@ The UniMod framework consists of the following components:
 | **UniReward** | Dataset | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:4px"/> <a href="https://huggingface.co/datasets/your-org/UniReward">UniReward</a> <span style="color:gray">(TBA)</span> |
 | **UniMod** | Model | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:6px"/> <a href="https://huggingface.co/Carol0110/UniMod-3B">UniMod-3B</a> &nbsp;\|&nbsp; <a href="https://huggingface.co/Carol0110/UniMod-7B">UniMod-7B</a> |
 
+## Demo Video
+
+> UniMod demo video:
+
+<video controls preload="metadata" style="width:100%; max-width:900px; border-radius:12px;">
+  <source src="static/demo.mp4" type="video/mp4">
+</video>
+
+---
+
 ## Quick Start
 
 ### Installation

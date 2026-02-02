@@ -45,7 +45,7 @@ UniMod 框架包含如下组件：
 > 以下是UniMod的演示视频:
 
 <video controls preload="metadata" style="width:100%; max-width:900px; border-radius:12px;">
-  <source src="static/videos/demo.mp4" type="video/mp4">
+  <source src="static/demo.mp4" type="video/mp4">
 </video>
 
 
