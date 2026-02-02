@@ -1,12 +1,16 @@
 <p align="center">
-  <img src="icon.png" alt="UniMod Logo" width="320">
+  <img src="./docs/icon.png" alt="UniMod Logo" width="320">
 </p>
+
+<p align="center">
+  <a href="./README.md"><b>English</b></a> | <a href="./README_ZH.md">中文</a>
+</p>
+
 
 # UniMod
 
 **UniMod** is a multimodal moderation framework that transitions from *sparse decision supervision* to *dense, multi-attribute reasoning trajectories*.  
 
----
 
 ## Introduction
 
@@ -18,12 +22,10 @@ UniMod aims to:
 - Support **multimodal inputs** such as text and images  
 - Improve the **clarity and stability** of safety decisions
 
----
 
 ## News
 
 
----
 
 ## Sources
 
@@ -37,7 +39,14 @@ The UniMod framework consists of the following components:
 | **UniMod** | | TBA |
 
 
----
+
+## Demo Video
+
+> UniRM demo video:
+
+<video controls preload="metadata" style="width:100%; max-width:900px; border-radius:12px;">
+  <source src="static/videos/demo.mp4" type="video/mp4">
+</video>
 
 ## Quick Start
 
@@ -46,7 +55,7 @@ The UniMod framework consists of the following components:
 ```bash
 cd UniMod
 pip install -r requirements.txt
-````
+```
 
 ### UniMod
 
@@ -123,7 +132,6 @@ The output includes structured reasoning fields such as:
 * policy
 * answer
 
----
 
 
 ## Evaluation
@@ -142,9 +150,6 @@ python -m evaluations.eval \
 
 * `--concurrency`: Number of concurrent requests for evaluation.
 * `--url`: HTTP endpoint of the deployed model (e.g., provided by vLLM or SGLang).
-* `--task`: Comma-separated list of evaluation benchmarks, including
+* `--task`: a list of evaluation benchmarks, including
   `harmbench`, `xstest`, `wildguard`, `toxic`, `aegis`, `spavl`, and `beaver`.
 
-
-
----
