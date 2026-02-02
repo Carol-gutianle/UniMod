@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./docs/icon.png" alt="UniMod Logo" width="320">
+  <img src="./docs/icon.png" alt="UniMod Logo" width="640">
 </p>
 
 <p align="center">
@@ -31,22 +31,12 @@ UniMod aims to:
 
 The UniMod framework consists of the following components:
 
-| Name | Type | Download |
-|------|------|----------|
-| **UniTrace** |  | TBA |
-| **UniRM** |  | TBA |
-| **UniReward** | | TBA |
-| **UniMod** | | TBA |
-
-
-
-## Demo Video
-
-> UniRM demo video:
-
-<video controls preload="metadata" style="width:100%; max-width:900px; border-radius:12px;">
-  <source src="static/videos/demo.mp4" type="video/mp4">
-</video>
+| Name        | Type    | Download |
+|-------------|---------|----------|
+| **UniTrace** | Dataset | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:4px"/> <a href="https://huggingface.co/datasets/your-org/UniTrace">UniTrace</a> <span style="color:gray">(TBA)</span> |
+| **UniRM**    | Model   | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:4px"/> <a href="https://huggingface.co/Carol0110/UniRM">UniRM</a> |
+| **UniReward** | Dataset | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:4px"/> <a href="https://huggingface.co/datasets/your-org/UniReward">UniReward</a> <span style="color:gray">(TBA)</span> |
+| **UniMod** | Model | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:6px"/> <a href="https://huggingface.co/Carol0110/UniMod-3B">UniMod-3B</a> &nbsp;\|&nbsp; <a href="https://huggingface.co/Carol0110/UniMod-7B">UniMod-7B</a> |
 
 ## Quick Start
 
@@ -152,4 +142,3 @@ python -m evaluations.eval \
 * `--url`: HTTP endpoint of the deployed model (e.g., provided by vLLM or SGLang).
 * `--task`: a list of evaluation benchmarks, including
   `harmbench`, `xstest`, `wildguard`, `toxic`, `aegis`, `spavl`, and `beaver`.
-
