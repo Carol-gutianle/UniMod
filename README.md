@@ -30,10 +30,18 @@ The UniMod framework consists of the following components:
 
 | Name | Type | Download |
 |------|------|----------|
-| **UniTrace** |  | TBA |
-| **UniRM** |  | TBA |
-| **UniReward** | | TBA |
-| **UniMod** | | TBA |
+| **UniTrace** | Dataset | <a href="https://huggingface.co/datasets/your-org/UniTrace"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="20"/></a> TBA |
+| **UniRM** | Model | <a href="https://huggingface.co/Carol0110/UniRM"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="20"/></a>  |
+| **UniReward** | Dataset | <a href="https://huggingface.co/datasets/your-org/UniReward"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="20"/></a> TBA |
+| **UniMod** | Model | 
+<a href="https://huggingface.co/Carol0110/UniMod-3B">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+       width="18" style="vertical-align:middle; margin-right:4px"/>
+</a> 3B&nbsp;&nbsp;
+<a href="https://huggingface.co/Carol0110/UniMod-7B">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+       width="18" style="vertical-align:middle; margin-right:4px"/>
+</a> 7B |
 
 
 
