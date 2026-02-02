@@ -2,6 +2,10 @@
   <img src="./docs/icon.png" alt="UniMod Logo" width="640">
 </p>
 
+<p align="center">
+  <a href="./README.md"><b>English</b></a> | <a href="./README_ZH.md">中文</a>
+</p>
+
 # UniMod
 
 **UniMod** is a multimodal moderation framework that transitions from *sparse decision supervision* to *dense, multi-attribute reasoning trajectories*.  
