@@ -41,9 +41,7 @@ The UniMod framework consists of the following components:
 
 > UniMod demo video:
 
-<video controls preload="metadata" style="width:100%; max-width:900px; border-radius:12px;">
-  <source src="static/demo.mp4" type="video/mp4">
-</video>
+https://youtu.be/KBa0USkenT8
 
 ---
 
