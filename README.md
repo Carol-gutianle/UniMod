@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./docs/icon.png" alt="UniMod Logo" width="320">
+  <img src="./docs/icon.png" alt="UniMod Logo" width="640">
 </p>
 
 # UniMod
@@ -28,23 +28,12 @@ UniMod aims to:
 
 The UniMod framework consists of the following components:
 
-| Name | Type | Download |
-|------|------|----------|
-| **UniTrace** | Dataset | <a href="https://huggingface.co/datasets/your-org/UniTrace"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="20"/></a> TBA |
-| **UniRM** | Model | <a href="https://huggingface.co/Carol0110/UniRM"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="20"/></a>  |
-| **UniReward** | Dataset | <a href="https://huggingface.co/datasets/your-org/UniReward"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="20"/></a> TBA |
-| **UniMod** | Model | 
-<a href="https://huggingface.co/Carol0110/UniMod-3B">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
-       width="18" style="vertical-align:middle; margin-right:4px"/>
-</a> 3B&nbsp;&nbsp;
-<a href="https://huggingface.co/Carol0110/UniMod-7B">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
-       width="18" style="vertical-align:middle; margin-right:4px"/>
-</a> 7B |
-
-
-
+| Name        | Type    | Download |
+|-------------|---------|----------|
+| **UniTrace** | Dataset | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:4px"/> <a href="https://huggingface.co/datasets/your-org/UniTrace">UniTrace</a> <span style="color:gray">(TBA)</span> |
+| **UniRM**    | Model   | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:4px"/> <a href="https://huggingface.co/Carol0110/UniRM">UniRM</a> |
+| **UniReward** | Dataset | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:4px"/> <a href="https://huggingface.co/datasets/your-org/UniReward">UniReward</a> <span style="color:gray">(TBA)</span> |
+| **UniMod** | Model | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:6px"/> <a href="https://huggingface.co/Carol0110/UniMod-3B">UniMod-3B</a> &nbsp;\|&nbsp; <a href="https://huggingface.co/Carol0110/UniMod-7B">UniMod-7B</a> |
 
 ## Quick Start
 
