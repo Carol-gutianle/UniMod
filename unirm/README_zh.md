@@ -11,9 +11,8 @@ UniRM 将奖励信号解耦为多个维度，使模型能够区分**表达质量
 
 > UniRM 演示视频：
 
-<video controls preload="metadata" style="width:100%; max-width:900px; border-radius:12px;">
-  <source src="static/unirm.mp4" type="video/mp4">
-</video>
+[![UniMod Demo](https://i9.ytimg.com/vi_webp/meP_VmbC9fU/mqdefault.webp?v=6980795f&sqp=CKTygcwG&rs=AOn4CLBAzAb078TNb879JOxLABBaixDpjg)](https://youtu.be/meP_VmbC9fU)
+
 
 ---
 
