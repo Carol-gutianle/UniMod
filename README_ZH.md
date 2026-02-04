@@ -128,3 +128,18 @@ python -m evaluations.eval \
     spavl
     beaver
 ```
+
+## 引用我们
+```
+```
+@misc{gu2026sparsedecisionsdensereasoning,
+      title={From Sparse Decisions to Dense Reasoning: A Multi-attribute Trajectory Paradigm for Multimodal Moderation}, 
+      author={Tianle Gu and Kexin Huang and Lingyu Li and Ruilin Luo and Shiyang Huang and Zongqi Wang and Yujiu Yang and Yan Teng and Yingchun Wang},
+      year={2026},
+      eprint={2602.02536},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2602.02536}, 
+}
+```
+```
