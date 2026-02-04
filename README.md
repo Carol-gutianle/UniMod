@@ -148,3 +148,16 @@ python -m evaluations.eval \
 * `--url`: HTTP endpoint of the deployed model (e.g., provided by vLLM or SGLang).
 * `--task`: a list of evaluation benchmarks, including
   `harmbench`, `xstest`, `wildguard`, `toxic`, `aegis`, `spavl`, and `beaver`.
+
+## Cite Us
+```
+@misc{gu2026sparsedecisionsdensereasoning,
+      title={From Sparse Decisions to Dense Reasoning: A Multi-attribute Trajectory Paradigm for Multimodal Moderation}, 
+      author={Tianle Gu and Kexin Huang and Lingyu Li and Ruilin Luo and Shiyang Huang and Zongqi Wang and Yujiu Yang and Yan Teng and Yingchun Wang},
+      year={2026},
+      eprint={2602.02536},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2602.02536}, 
+}
+```
