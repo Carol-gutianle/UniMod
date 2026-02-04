@@ -131,7 +131,6 @@ python -m evaluations.eval \
 
 ## 引用我们
 ```
-```
 @misc{gu2026sparsedecisionsdensereasoning,
       title={From Sparse Decisions to Dense Reasoning: A Multi-attribute Trajectory Paradigm for Multimodal Moderation}, 
       author={Tianle Gu and Kexin Huang and Lingyu Li and Ruilin Luo and Shiyang Huang and Zongqi Wang and Yujiu Yang and Yan Teng and Yingchun Wang},
@@ -141,5 +140,4 @@ python -m evaluations.eval \
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2602.02536}, 
 }
-```
 ```
