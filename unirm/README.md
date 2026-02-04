@@ -15,7 +15,7 @@ UniRM decouples reward attribution into multiple dimensions so the model can dis
 
 > UniRM demo video:
 
-[![UniMod Demo](../docs/unirm.png](https://youtu.be/meP_VmbC9fU)
+[![UniMod Demo](../docs/unirm.png)](https://youtu.be/meP_VmbC9fU)
 
 ---
 
