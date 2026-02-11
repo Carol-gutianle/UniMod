@@ -13,6 +13,10 @@
 
 ## Introduction
 
+<p align="center">
+  <img src="./static/overview.png" alt="Overview" width="640">
+</p>
+
 Conventional moderation systems primarily supervise final decisions (e.g., safe vs. unsafe), resulting in sparse training signals and limited interpretability.  
 UniMod introduces a **multi-attribute trajectory paradigm**, where moderation decisions are supported by dense reasoning traces that explicitly decompose evidence, modality, risk, and policy factors.
 
@@ -33,8 +37,8 @@ The UniMod framework consists of the following components:
 | Name        | Type    | Download |
 |-------------|---------|----------|
 | **UniTrace** | Dataset | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:4px"/> <a href="https://huggingface.co/datasets/your-org/UniTrace">UniTrace</a> <span style="color:gray">(TBA)</span> |
-| **UniRM**    | Model   | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:4px"/> <a href="https://huggingface.co/Carol0110/UniRM">UniRM</a> |
-| **UniReward** | Dataset | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:4px"/> <a href="https://huggingface.co/datasets/your-org/UniReward">UniReward</a> <span style="color:gray">(TBA)</span> |
+| **UniRM**    | Model   | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:4px"/> <a href="https://huggingface.co/Carol0110/UniRM-3B">UniRM-3B</a><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:4px"/> <a href="https://huggingface.co/Carol0110/UniRM-7B">UniRM-7B</a> |
+| **UniReward** | Dataset | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:4px"/> <a href="https://huggingface.co/datasets/Carol0110/UniReward">UniReward</a> <span style="color:gray"></span> |
 | **UniMod** | Model | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:6px"/> <a href="https://huggingface.co/Carol0110/UniMod-3B">UniMod-3B</a> &nbsp;\|&nbsp; <a href="https://huggingface.co/Carol0110/UniMod-7B">UniMod-7B</a> |
 
 ## Demo Video
