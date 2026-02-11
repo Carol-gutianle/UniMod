@@ -37,7 +37,7 @@ The UniMod framework consists of the following components:
 | Name        | Type    | Download |
 |-------------|---------|----------|
 | **UniTrace** | Dataset | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:4px"/> <a href="https://huggingface.co/datasets/your-org/UniTrace">UniTrace</a> <span style="color:gray">(TBA)</span> |
-| **UniRM**    | Model   | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:4px"/> <a href="https://huggingface.co/Carol0110/UniRM-3B">UniRM-3B</a><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:4px"/> <a href="https://huggingface.co/Carol0110/UniRM-7B">UniRM-7B</a> |
+| **UniRM**    | Model   | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:4px"/> <a href="https://huggingface.co/Carol0110/UniRM-3B">UniRM-3B</a> &nbsp;\|&nbsp; <a href="https://huggingface.co/Carol0110/UniRM-7B">UniRM-7B</a> |
 | **UniReward** | Dataset | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:4px"/> <a href="https://huggingface.co/datasets/Carol0110/UniReward">UniReward</a> <span style="color:gray"></span> |
 | **UniMod** | Model | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:6px"/> <a href="https://huggingface.co/Carol0110/UniMod-3B">UniMod-3B</a> &nbsp;\|&nbsp; <a href="https://huggingface.co/Carol0110/UniMod-7B">UniMod-7B</a> |
 
